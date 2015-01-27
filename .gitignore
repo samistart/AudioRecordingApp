@@ -1,0 +1,13 @@
+#ignore .DS_Store system file
+.DS_Store
+
+#ignore RemoteSystemsTempFiles
+RemoteSystemsTempFiles
+
+
+#metadata , eclipse plugin files
+.metadata
+/bin/
+
+# excluding eclipse recomenders
+.recommenders

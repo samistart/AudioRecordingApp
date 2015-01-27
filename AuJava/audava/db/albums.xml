@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<albums>
+  <album id="0">
+    <name>first album</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="1">
+    <name>changed in testing program</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="2">
+    <name>third album</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="3">
+    <name>default constructor title</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="4">
+    <name>default constructor title</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="5">
+    <name>default constructor title</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="6">
+    <name>yeyeye</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="7">
+    <name>default constructor title</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="8">
+    <name>default constructor title</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+  <album id="9">
+    <name>album at the end</name>
+    <description><![CDATA[default constructor description]]></description>
+    <picture>default constructor pic location</picture>
+    <added>2014-11-23T16:01:09</added>
+  </album>
+</albums>
